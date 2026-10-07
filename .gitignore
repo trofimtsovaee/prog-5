@@ -1,0 +1,13 @@
+**/__pycache__/
+**/*.py[cod]
+**/*$py.class
+**/*.so
+**/.Python
+**/myenv/
+**/venv/
+**/.venv/
+**/env/
+**/ENV/
+
+# Игнорируем временные настройки Obsidian
+**/.obsidian/
